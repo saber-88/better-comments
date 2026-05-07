@@ -427,5 +427,3 @@ Live on the Marketplace in 5–10 minutes.
 
 ---
 
-> *Project 2 of a 3-part VSCode Extension Development live session.*
-> *← [Project 1: Motivation Doodle](../project-1-motivation-doodle) | [Project 3: File Auto-Header →](../project-3-file-auto-header)*
