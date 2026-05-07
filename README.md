@@ -118,7 +118,7 @@ comment-highlighter/
 
 **Step 1 — Clone**
 ```bash
-git clone https://github.com/karmveer/comment-highlighter.git
+git clone https://github.com/saber-88/comment-highlighter.git
 cd comment-highlighter
 ```
 
@@ -366,7 +366,7 @@ Add to `package.json` before packaging:
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karmveer/comment-highlighter"
+    "url": "https://github.com/saber-88/comment-highlighter"
   }
 }
 ```
@@ -423,7 +423,7 @@ Live on the Marketplace in 5–10 minutes.
 ## 👤 Author
 
 **Karmveer**
-- GitHub: [@karmveer](https://github.com/karmveer)
+- GitHub: [@karmveer](https://github.com/saber-88)
 
 ---
 
